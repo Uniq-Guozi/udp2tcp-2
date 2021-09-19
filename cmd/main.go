@@ -4,6 +4,7 @@ import (
 	"flag"
 	"github.com/Error996/udp2tcp"
 	"time"
+	"flag"
 )
 
 var config struct {
