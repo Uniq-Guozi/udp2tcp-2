@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/Uniq-Guozi/udp2tcp-2"
+	"github.com/Uniq-Guozi/udp2tcp2"
 	"time"
 	"flag"
 )
